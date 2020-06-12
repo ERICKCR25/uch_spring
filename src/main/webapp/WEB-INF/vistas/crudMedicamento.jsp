@@ -30,7 +30,7 @@
 						<div class="col-md-3">	
 							<div class="form-group">
 							  	<label class="control-label" for="id_nonbre_filtro">NOMBRE</label>
-							  	<input class="form-control" id="id_nonbre_filtro"  name="filtro" placeholder="Ingrese el nombre" type="text" maxlength="30"/>
+							  	<input class="form-control" id="id_nonbre_filtro"  name="filtro" placeholder="Ingrese el nombres" type="text" maxlength="30"/>
 							</div>
 						</div>
 					</div>			
