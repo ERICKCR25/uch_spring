@@ -6,8 +6,4 @@ import com.redsocial.entidad.Concurso;
 
 public interface ConcursoRepositorio extends JpaRepository<Concurso, Long> {
 
-
-	
-	
-	
 }
